@@ -16,3 +16,4 @@ v1.2: GUI 최적화<br>
 이미지를 열면 학습된 16종류의 꽃중에서 가장 일치하는 꽃을 3번째까지 텍스트로 확률과 함께 제시해주고 그래프를 보여줍니다.<br>
 <br>
 <h2>16종류의 꽃</h2>
+<img src="https://user-images.githubusercontent.com/101073987/199654468-fb3127d7-55cb-4807-be89-5c45e1c33553.png" alt="ff2">
