@@ -15,5 +15,5 @@ v1.2: GUI 최적화<br>
 <h2>구현된 기능</h2>
 이미지를 열면 학습된 16종류의 꽃중에서 가장 일치하는 꽃을 3번째까지 텍스트로 확률과 함께 제시해주고 그래프를 보여줍니다.<br>
 <br>
-<h3>16종류의 꽃</h3>
-'Astilbe','Bellflower','Black_eyed_susan','Calendula','California_poppy','Carnation','Common_daisy','Coreopsis','Daffodil','Dandelion','Iris','Magnolia','Rose','Sunflower','Tulip','Water_lily'<br>
+<h2>16종류의 꽃</h2>
+<img src="https://user-images.githubusercontent.com/101073987/199652846-82e3e18c-2a52-42ea-a3bd-165949b54650.png" alt="16species">
